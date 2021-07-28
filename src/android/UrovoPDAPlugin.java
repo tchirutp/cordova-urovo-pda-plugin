@@ -23,7 +23,6 @@ public class UrovoPDAPlugin extends CordovaPlugin {
     protected void pluginInitialize() {
         context = this.cordova.getActivity().getApplicationContext();
         scanReceiver = new UrovoBroadcastReceiver(context);
-        System.out.println("Hello World!");
     }
 
     @Override
