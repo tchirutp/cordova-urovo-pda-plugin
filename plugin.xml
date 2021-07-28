@@ -39,7 +39,7 @@
         <source-file src="src/android/BarcodeListener.java" target-dir="src/ru/kservice/ksm/cordova" />
         <source-file src="src/android/UrovoBroadcastReceiver.java" target-dir="src/ru/kservice/ksm/cordova" />
         <source-file src="src/android/UrovoPDAPlugin.java" target-dir="src/ru/kservice/ksm/cordova" />
-        <lib-file src="lib/android/platform_sdk_v4.1.0326.jar"/>
+        <lib-file src="lib/android/platform_sdk_v1.0.2.jar"/>
     </platform>
 
     <platform name="browser">
