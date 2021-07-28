@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sgologuzov/cordova-urovo-pda-plugin"
+    "url": "git+https://github.com/tchirutp/cordova-urovo-pda-plugin.git"
   },
   "author": "s.gologuzov@k-service.com.ru",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/sgologuzov/cordova-urovo-pda-plugin/issues"
+    "url": "https://github.com/tchirutp/cordova-urovo-pda-plugin/issues"
   },
-  "homepage": "https://github.com/sgologuzov/cordova-urovo-pda-plugin#readme"
+  "homepage": "https://github.com/tchirutp/cordova-urovo-pda-plugin#readme"
 }
